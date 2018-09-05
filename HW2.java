@@ -46,8 +46,7 @@ public class HW2
         System.out.println("Enter a word.");
         userWord = keyboard.nextLine();
         
-        
-    
+      
         // This loop iterates as long as there is text in the file      
         while(reviewScanner.hasNext())
         {
