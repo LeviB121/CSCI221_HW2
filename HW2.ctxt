@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HW2
+comment0.text=\r\n\ CSCI\ 221,\ Fall\ 2018,\ Programming\ HW\ 2\r\n\ Levi\ Briggs\ \r\n\r\n\ This\ program\ analyzes\ movie\ review\ data\ to\ determine\ if\ words\ have\ a\ \r\n\ negative\ or\ positive\ meaning.\ If\ a\ word\ is\ used\ more\ often\ in\ positive\ \r\n\ reviews,\ it\ is\ assumed\ that\ the\ word\ is\ positive,\ and\ vice\ versa.\r\n\ Currently,\ it\ reads\ review\ data\ line\ by\ line\ -\ each\ line\ is\ a\ single\ review\ in\ teh\ form\:\r\n\ <integer\ rating\ of\ movie>\ <Verbal\ review\ -\ text\ supporting\ the\ rating>\ <newline>\r\n\ \r\n\ <Add\ additional\ comments\ to\ further\ the\ purpose\ of\ this\ program.>\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
